@@ -5,10 +5,14 @@ After connecting after program with mongoDB we install _scrapy_ which is a free 
 Finally to upload data on mongoDB we run the following command:
 __scrapy crawl books __
 
-Data in mongoDB:
-![image](https://github.com/Prakram14/WebsiteScrapper/assets/105963616/3ae11ed2-79ea-4f51-8f08-7b580a4d1908)
+Link of website used for scrapping:
+https://books.toscrape.com/
 
-Data in mongoDB:
-![image](https://github.com/Prakram14/WebsiteScrapper/assets/105963616/28f98b9c-6df3-4993-8d5c-4fa335014b61)
+Data in mongoDB from mystery_3:
+![image](https://github.com/Prakram14/WebsiteScrapper/assets/105963616/d2d6089d-0fef-4a87-950c-ce0f46365856)
+
+Data in mongoDB from travel_2:
+![image](https://github.com/Prakram14/WebsiteScrapper/assets/105963616/b2328236-f1e9-4cf2-a204-963cd4b83dd2)
+
 
 
